@@ -2,3 +2,4 @@ Q:What happens when you initialize a repository? Why do you need to do it? When 
 Q:How is the staging area different from the working directory and the repository? What value do you think it offers? The staging area offers a in-between for commits and working directory.
 Q:How can you use the staging area to make sure you have one commit per logical change? You can use git diff --staged to see if the change from staging area to repository is a logical change.
 Q:What are some situations when branches would be helpful in keeping your history organized? How would branches help? Thoughts: Situations when branches should be used are when you want to add something that you don't want to quite add to the program yet but test.
+Q:How do the diagrams help you visualize the branch structure? Thoughts: Diagrams can help you visualize the branch structure by organizing every commit and showing their parents
