@@ -1,0 +1,1 @@
+I learnt that there are tools on computers to compare code files so when you change code and make a mistake it is easier to find.
